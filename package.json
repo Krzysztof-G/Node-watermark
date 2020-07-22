@@ -1,0 +1,11 @@
+{
+  "name": "node-watermark",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Krzysztof-G/Node-watermark.git",
+  "author": "Krzysztof Gumuła <k.gumula@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
